@@ -69,4 +69,6 @@ ENDSHARE（最后共享）是一个致力于**开放数据基础设施**的开�
 - 🏠 官网：[endshare.com](https://endshare.com)
 - 🐙 GitHub 组织：[github.com/endshare](https://github.com/endshare)
 
+ℹ️ 此页面 AI 生成 + 手动修改，部分内容夸大其词
+
 © 2026 ·  ENDSHARE · 最后共享  ⚡ 由 GitHub Pages 驱动
